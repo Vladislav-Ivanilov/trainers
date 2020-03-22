@@ -1,0 +1,16 @@
+@media screen and (min-width: 480px) and (max-width: 1200px){
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+}
+.logo {
+    float: none;
+    max-width: 150px;
+}
+.container a {
+    float: none;
+    width: 100%;
+}

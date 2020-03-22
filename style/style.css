@@ -238,8 +238,7 @@ h1:after {
     margin: auto;
     max-width: 980px;
     background-color: #f1f1f1;
-    float: right;
-    display: inline-block;
+
 }
 .workout a {
     font-size: 51px;
